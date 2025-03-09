@@ -9,7 +9,7 @@
 
 ## Descrição do projeto
 
-** O Challenge Amigo Secreto** foi um projeto desenvolvido na fase de seleção do programa Oracle Next Education junto com a Alura. É um aplicativo web que permite inserir nomes de amigos em uma lista e, por meio de sorteio aleatório, determinar quem será o “amigo secreto”. É uma ferramenta para organizar trocas de presentes de forma rápida e fácil.
+**O Challenge Amigo Secreto** foi um projeto desenvolvido na fase de seleção do programa Oracle Next Education junto com a Alura. É um aplicativo web que permite inserir nomes de amigos em uma lista e, por meio de sorteio aleatório, determinar quem será o “amigo secreto”. É uma ferramenta para organizar trocas de presentes de forma rápida e fácil.
 
 ## Características
 
@@ -25,13 +25,13 @@
    ```bash
    git clone https://github.com/nunesma/challenge-amigo-secreto.git
 2. **Abrir o aplicativo:**
-Jogo Amigo Secreto
+[Jogo Amigo Secreto](https://amigo-secreto-mbmx9m426-marco-nunes-projects-d6a1c91c.vercel.app/)
 
 ## Como usar
 
 1. Digite um nome
 2. Clique no botão Adicionar para adicionar o nome à lista.
-3. Repita a partir do primeiro passo. Após preencher todos os participantes, vá para o passo 4.
+3. Repita a partir do passo 1. Após preencher todos os participantes, vá para o passo 4.
 4. Quando a lista estiver completa, clique em Sortear Amigo.
 
 ## **Autor:** 

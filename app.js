@@ -9,7 +9,7 @@ function adicionarAmigo() {
     let nome = input.value.trim();
 
     if (nome === '') {
-        alert('Por favor, insira um nome valido.');
+        alert('Por favor, insira um nome válido.');
     }
 
     listaDeAmigos.push(nome);
@@ -35,7 +35,7 @@ function atualizarLista() {
 // O amigo secreto sorteado e:
 function sortearAmigo() {
     if (listaDeAmigos.length === 0) {
-        alert('Nao ha nomes registrados para serem sorteados!');
+        alert('Não há nomes registrados para serem sorteados!');
     }
 
     let indiceSorteio = Math.floor(Math.random() * listaDeAmigos.length);
