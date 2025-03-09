@@ -25,7 +25,7 @@
    ```bash
    git clone https://github.com/nunesma/challenge-amigo-secreto.git
 2. **Abrir o aplicativo:**
-[Jogo Amigo Secreto](https://amigo-secreto-mbmx9m426-marco-nunes-projects-d6a1c91c.vercel.app/)
+- [Jogo Amigo Secreto](https://amigo-secreto-chi-sage.vercel.app/)
 
 ## Como usar
 
